@@ -1,4 +1,4 @@
-const CACHE_NAME = 'vr-explorer-v3.01';
+const CACHE_NAME = 'vr-explorer-v3.02';
 const urlsToCache = [
   './',
   'index.html',
